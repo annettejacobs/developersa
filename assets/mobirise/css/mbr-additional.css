@@ -507,10 +507,6 @@ h6,
 
 
 
-
-
-
-
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -579,30 +575,15 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #header1-0 .mbr-section-title {
-  font-size: 30px;
+  font-size: 25px;
   font-family: 'Roboto', sans-serif;
   text-align: left;
 }
 #header1-0 .mbr-section-lead {
-  font-size: 16px;
+  font-size: 14px;
   font-family: 'Roboto', sans-serif;
   text-align: center;
 }
-#contacts3-2 H4 {
-  color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-  text-align: right;
-}
-#contacts3-2 STRONG {
-  color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-}
-#contacts3-2 P {
-  font-family: 'Roboto', sans-serif;
-}
-#contacts3-2 .list-group-text {
-  font-family: 'Roboto', sans-serif;
-}
-#contacts3-2 SPAN {
+#contacts2-9 STRONG {
   color: #ffffff;
 }
