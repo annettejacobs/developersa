@@ -418,6 +418,97 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#menu-c .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-c .navbar-caption {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+}
+#menu-c .navbar-toggler {
+  color: #ffffff;
+}
+#menu-c .close-icon::before,
+#menu-c .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-c .link,
+#menu-c .dropdown-item {
+  color: #ffffff;
+}
+#menu-c .link {
+  font-size: 0.75rem;
+}
+#menu-c .dropdown-item,
+#menu-c .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-c .link:hover,
+#menu-c .dropdown-item:hover,
+#menu-c .link:focus,
+#menu-c .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-c .link[aria-expanded="true"],
+#menu-c .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-c .nav-dropdown-sm .link:focus,
+#menu-c .nav-dropdown-sm .link:hover,
+#menu-c .nav-dropdown-sm .dropdown-item:focus,
+#menu-c .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-c .navbar,
+#menu-c .nav-dropdown-sm,
+#menu-c .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-c .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-c .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-c .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-c .bg-color.transparent.opened .link:hover,
+#menu-c .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-c .link[aria-expanded="true"],
+#menu-c .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-c .btn {
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
+}
+#contacts3-d H4 {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  text-align: right;
+}
+#contacts3-d STRONG {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#contacts3-d P {
+  font-family: 'Roboto', sans-serif;
+}
+#contacts3-d .list-group-text {
+  font-family: 'Roboto', sans-serif;
+}
+#contacts3-d SPAN {
+  color: #ffffff;
+}
+
+
+
+
+
+
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -587,94 +678,9 @@ h6,
 #contacts2-9 STRONG {
   color: #ffffff;
 }
-
-
-
-
-
-
-#menu-c .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-c .navbar-caption {
-  color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-  font-size: 12px;
-}
-#menu-c .navbar-toggler {
+#msg-box5-i H3 {
   color: #ffffff;
 }
-#menu-c .close-icon::before,
-#menu-c .close-icon::after {
-  background-color: #ffffff;
-}
-#menu-c .link,
-#menu-c .dropdown-item {
-  color: #ffffff;
-}
-#menu-c .link {
-  font-size: 0.75rem;
-}
-#menu-c .dropdown-item,
-#menu-c .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu-c .link:hover,
-#menu-c .dropdown-item:hover,
-#menu-c .link:focus,
-#menu-c .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-c .link[aria-expanded="true"],
-#menu-c .dropdown-menu {
-  background: #0e0e0e;
-}
-#menu-c .nav-dropdown-sm .link:focus,
-#menu-c .nav-dropdown-sm .link:hover,
-#menu-c .nav-dropdown-sm .dropdown-item:focus,
-#menu-c .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#menu-c .navbar,
-#menu-c .nav-dropdown-sm,
-#menu-c .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-c .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#menu-c .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-c .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-c .bg-color.transparent.opened .link:hover,
-#menu-c .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-c .link[aria-expanded="true"],
-#menu-c .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#menu-c .btn {
-  font-size: 12px;
-  font-family: 'Roboto', sans-serif;
-}
-#contacts3-d H4 {
-  color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-  text-align: right;
-}
-#contacts3-d STRONG {
-  color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-}
-#contacts3-d P {
-  font-family: 'Roboto', sans-serif;
-}
-#contacts3-d .list-group-text {
-  font-family: 'Roboto', sans-serif;
-}
-#contacts3-d SPAN {
+#msg-box5-i P {
   color: #ffffff;
 }
