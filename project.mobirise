@@ -12,9 +12,9 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Montserrat",
-        "subtitleFont": "Lora",
-        "textFont": "Raleway",
+        "titleFont": "Roboto",
+        "subtitleFont": "Roboto",
+        "textFont": "Roboto",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
@@ -130,7 +130,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">admin@developersouthafrica.gmail.com</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">admin@developersa.co.za</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOADS</a></li>"
         },
         {
@@ -159,7 +159,7 @@
             "showButtons": false
           },
           "title": "DEVELOPERSOUTHAFRICA",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background etc etc and more text so that the block can be thes same size.&nbsp;<br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_styles": {
             ".mbr-section-title": {
@@ -188,7 +188,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#201e1e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -221,7 +221,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "text2": "+27 83 267 9839",
           "media2": {
             "iconFont": {
               "active": true,
@@ -231,7 +231,7 @@
               "family": "et-line"
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "Celeste Crescent, Discovery, Roodepoort, 1916",
           "media3": {
             "iconFont": {
               "active": true,
@@ -241,10 +241,10 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
+          "text4": "admin@developersa.co.za",
           "title1": "Categories",
           "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text6": "",
           "form": {
             "title": "MESSAGE",
             "action": "qasmooth@gmail.com",
@@ -254,7 +254,7 @@
             "fields": {
               "name": {
                 "title": "Name",
-                "visible": false,
+                "visible": true,
                 "customTitle": "Name*"
               },
               "email": {
@@ -264,7 +264,7 @@
               },
               "phone": {
                 "title": "Phone",
-                "visible": false,
+                "visible": true,
                 "customTitle": "Phone"
               },
               "message": {
@@ -276,9 +276,25 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "_styles": {
             "H4": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "right"
             },
             "STRONG": {
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".list-group-text": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "SPAN": {
               "color": "#ffffff"
             }
           }
