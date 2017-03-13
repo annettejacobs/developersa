@@ -7,6 +7,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -480,4 +482,14 @@ h6,
 #menu-5 .btn {
   font-size: 12px;
   font-family: 'Roboto', sans-serif;
+}
+#header1-0 .mbr-section-title {
+  font-size: 48px;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#header1-0 .mbr-section-lead {
+  font-size: 22px;
+  font-family: 'Roboto', sans-serif;
+  text-align: right;
 }
