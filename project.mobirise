@@ -163,13 +163,13 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "48px",
+              "font-size": "30px",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "text-align": "left"
             },
             ".mbr-section-lead": {
-              "font-size": "18px",
+              "font-size": "16px",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "text-align": "right"
@@ -247,9 +247,9 @@
           "text6": "",
           "form": {
             "title": "MESSAGE",
-            "action": "qasmooth@gmail.com",
+            "action": "admin@developersa.co.za",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for contacting us!"
             },
             "fields": {
               "name": {
@@ -265,11 +265,11 @@
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone"
+                "customTitle": "Phone*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message*"
               }
             }
           },
