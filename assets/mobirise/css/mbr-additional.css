@@ -675,12 +675,15 @@ h6,
   font-family: 'Roboto', sans-serif;
   text-align: center;
 }
-#contacts2-j STRONG {
-  color: #ffffff;
-}
 #msg-box5-i H3 {
   color: #ffffff;
+  font-size: 20px;
+  text-align: left;
 }
 #msg-box5-i P {
+  color: #ffffff;
+  font-size: 14px;
+}
+#contacts2-j STRONG {
   color: #ffffff;
 }

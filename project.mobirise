@@ -639,37 +639,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-j",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
-            }
-          },
-          "text1": "<strong>Address</strong><br>\nCeleste Crescent, Discovery,<br>\nRoodepoort, 1719<br><br><br>\n<strong>Contacts</strong><br>\nEmail: admin@developersa.co.za<br>\nPhone: +27 83 267 9839<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><font size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Specialities</b></span></font></p><ul><li>Mobile apps</li><li>Websites</li><li>Website and app maintenance</li></ul>",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-i",
           "_params": {
@@ -679,7 +648,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2d2b2b",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -691,7 +660,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -711,14 +680,48 @@
               "size": 0
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "title": "WHO ARE WE?!",
+          "text": "We are a team of two developers with 25 years experience in app, programme and website developement. We specialise in practical easy mobile apps that makes a difference to you or your company. And therefore we can keep our pricing to a minimum to make it affordable for anyone with a bright innovative idea for an mobile app or website idea.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "H3": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "20px",
+              "text-align": "left"
             },
             "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nCeleste Crescent, Discovery,<br>\nRoodepoort, 1719<br><br><br>\n<strong>Contacts</strong><br>\nEmail: admin@developersa.co.za<br>\nPhone: +27 83 267 9839<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><font size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Specialities</b></span></font></p><ul><li>Mobile apps</li><li>Websites</li><li>Website and app maintenance</li></ul>",
+          "_styles": {
+            "STRONG": {
               "color": "#ffffff"
             }
           }
