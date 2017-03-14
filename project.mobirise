@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 19,
+    "uniqCompNum": 20,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -30,7 +30,7 @@
       "settings": {
         "title": "AboutUs",
         "meta_descr": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -259,7 +259,7 @@
       "settings": {
         "title": "ContactUs",
         "meta_descr": "",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -640,7 +640,7 @@
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-9",
+          "_anchor": "contacts2-j",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -658,8 +658,8 @@
               "state": "ok"
             }
           },
-          "text1": "<strong>Address</strong><br>\nCeleste Crescent, Discovery<br>\nRoodepoort<br><br><br>\n<strong>Contacts</strong><br>\nEmail: admin@developersa.co.za<br>\nPhone: +27 83 267 9839<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Specialities</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">M</a>obile apps</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">W</a>ebsite maintenance</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">W</a>ebsites</li></ul>",
+          "text1": "<strong>Address</strong><br>\nCeleste Crescent, Discovery,<br>\nRoodepoort, 1719<br><br><br>\n<strong>Contacts</strong><br>\nEmail: admin@developersa.co.za<br>\nPhone: +27 83 267 9839<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><font size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Specialities</b></span></font></p><ul><li>Mobile apps</li><li>Websites</li><li>Website and app maintenance</li></ul>",
           "_styles": {
             "STRONG": {
               "color": "#ffffff"
