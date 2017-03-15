@@ -56,12 +56,6 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Roboto', sans-serif;
 }
-.btn {
-  border-radius: 1.6em;
-}
-.mbr-subscribe .btn {
-  border-radius: 1.6em !important;
-}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -97,10 +91,10 @@ h6,
   background-color: #404546 !important;
 }
 .bg-warning {
-  background-color: #f3c649 !important;
+  background-color: #b8312f !important;
 }
 .bg-danger {
-  background-color: #f3c649 !important;
+  background-color: #b8312f !important;
 }
 .btn-primary {
   background-color: #fac51c;
@@ -183,8 +177,8 @@ h6,
   border-color: #7b211f !important;
 }
 .btn-warning {
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #b8312f;
+  border-color: #b8312f;
   color: #ffffff;
 }
 .btn-warning:hover,
@@ -193,18 +187,18 @@ h6,
 .btn-warning:active,
 .btn-warning.active {
   color: #ffffff;
-  background-color: #e1a90f;
-  border-color: #e1a90f;
+  background-color: #7b211f;
+  border-color: #7b211f;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #e1a90f !important;
-  border-color: #e1a90f !important;
+  background-color: #7b211f !important;
+  border-color: #7b211f !important;
 }
 .btn-danger {
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #b8312f;
+  border-color: #b8312f;
   color: #ffffff;
 }
 .btn-danger:hover,
@@ -213,14 +207,14 @@ h6,
 .btn-danger:active,
 .btn-danger.active {
   color: #ffffff;
-  background-color: #e1a90f;
-  border-color: #e1a90f;
+  background-color: #7b211f;
+  border-color: #7b211f;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #e1a90f !important;
-  border-color: #e1a90f !important;
+  background-color: #7b211f !important;
+  border-color: #7b211f !important;
 }
 .btn-primary-outline {
   background: none;
@@ -304,8 +298,8 @@ h6,
 }
 .btn-warning-outline {
   background: none;
-  border-color: #c9970d;
-  color: #c9970d;
+  border-color: #671b1a;
+  color: #671b1a;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
@@ -313,19 +307,19 @@ h6,
 .btn-warning-outline:active,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #b8312f;
+  border-color: #b8312f;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #f3c649 !important;
-  border-color: #f3c649 !important;
+  background-color: #b8312f !important;
+  border-color: #b8312f !important;
 }
 .btn-danger-outline {
   background: none;
-  border-color: #c9970d;
-  color: #c9970d;
+  border-color: #671b1a;
+  color: #671b1a;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
@@ -333,14 +327,14 @@ h6,
 .btn-danger-outline:active,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #b8312f;
+  border-color: #b8312f;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #f3c649 !important;
-  border-color: #f3c649 !important;
+  background-color: #b8312f !important;
+  border-color: #b8312f !important;
 }
 .text-primary {
   color: #fac51c !important;
@@ -352,10 +346,10 @@ h6,
   color: #404546 !important;
 }
 .text-warning {
-  color: #f3c649 !important;
+  color: #b8312f !important;
 }
 .text-danger {
-  color: #f3c649 !important;
+  color: #b8312f !important;
 }
 .alert-success {
   background-color: #b8312f;
@@ -364,10 +358,10 @@ h6,
   background-color: #404546;
 }
 .alert-warning {
-  background-color: #f3c649;
+  background-color: #b8312f;
 }
 .alert-danger {
-  background-color: #f3c649;
+  background-color: #b8312f;
 }
 .btn-social {
   border-color: #fac51c;
@@ -411,11 +405,11 @@ h6,
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #e08886;
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #e08886;
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
