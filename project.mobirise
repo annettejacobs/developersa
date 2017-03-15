@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#f59910",
+        "primaryColor": "#fcd844",
         "secondaryColor": "#b8312f",
         "successColor": "#b8312f",
         "infoColor": "#404546",
@@ -648,7 +648,8 @@
             },
             "P": {
               "color": "#ffffff",
-              "font-size": "14px"
+              "font-size": "14px",
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box5-i",
@@ -705,23 +706,27 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "background-color": "#000000",
+              "border-color": "#000000"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#000000"
+            },
+            "H4": {
+              "color": "#c1c1c1"
             }
           },
           "_name": "features7",
           "_anchor": "features7-k",
           "_params": {
-            "iconsBgColor": "@primaryColor",
+            "iconsBgColor": "#000000",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
