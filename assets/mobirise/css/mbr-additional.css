@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
 
@@ -598,6 +599,8 @@ h6,
 
 
 
+
+
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -659,7 +662,7 @@ h6,
 }
 #menu-5 .link[aria-expanded="true"],
 #menu-5 .dropdown-item[aria-expanded="true"] {
-  color: #fac51c!important;
+  color: #fcd844!important;
 }
 #menu-5 .btn {
   font-size: 12px;
@@ -672,7 +675,7 @@ h6,
 }
 #header1-0 .mbr-section-lead {
   font-size: 14px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-align: center;
 }
 #msg-box5-i H3 {
@@ -684,6 +687,7 @@ h6,
   color: #ffffff;
   font-size: 14px;
   text-align: left;
+  font-family: 'Open Sans', sans-serif;
 }
 #features7-k .card-subtitle {
   color: #bcbcbc;
@@ -701,6 +705,11 @@ h6,
 }
 #contacts2-j STRONG {
   color: #ffffff;
+}
+#header2-n .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 60px;
+  text-align: left;
 }
 
 
