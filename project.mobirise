@@ -603,9 +603,9 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "25px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "21px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "text-align": "left"
             },
             ".mbr-section-lead": {
